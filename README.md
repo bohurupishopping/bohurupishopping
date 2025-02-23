@@ -17,12 +17,3 @@ Bohurupi Shopping is an online store dedicated to offering an exclusive collecti
 - **Printed Bengali Travel T-Shirts** 🌍👕  
   URL: [https://bohurupi.com/printed-bengali-travel-t-shirts/](https://bohurupi.com/printed-bengali-travel-t-shirts/)  
   Description: Travel-themed t-shirts that showcase inspirational Bengali prints.
-
-## GitHub Repository
-
-Access the code and contribute by visiting the repository:  
-[https://github.com/yourusername/bohurupishopping](https://github.com/yourusername/bohurupishopping)
-
-## License
-
-This project is licensed under the MIT License.
