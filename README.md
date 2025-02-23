@@ -18,34 +18,6 @@ Bohurupi Shopping is an online store dedicated to offering an exclusive collecti
   URL: [https://bohurupi.com/printed-bengali-travel-t-shirts/](https://bohurupi.com/printed-bengali-travel-t-shirts/)  
   Description: Travel-themed t-shirts that showcase inspirational Bengali prints.
 
-- **Bengali Customized T-Shirts** ✏️👕  
-  URL: [https://bohurupi.com/bengali-customized-t-shirts/](https://bohurupi.com/bengali-customized-t-shirts/)  
-  Description: Personalize your style with custom-designed Bengali t-shirts.
-
-- **Bengali T-Shirts for Womens** 👚  
-  URL: [https://bohurupi.com/bengali-t-shirts-for-womens/](https://bohurupi.com/bengali-t-shirts-for-womens/)  
-  Description: A selection of t-shirts crafted especially for women with elegant designs.
-
-- **Bengali T-Shirts for Men** 👔  
-  URL: [https://bohurupi.com/bengali-t-shirts-for-men/](https://bohurupi.com/bengali-t-shirts-for-men/)  
-  Description: Exclusive t-shirt designs tailored for men who appreciate style and culture.
-
-- **Durga Puja T-Shirts Collection** 🎉  
-  URL: [https://bohurupi.com/durga-puja-t-shirts-collection/](https://bohurupi.com/durga-puja-t-shirts-collection/)  
-  Description: Festive t-shirt collections celebrating the spirit of Durga Puja.
-
-- **Bengali Printed T-Shirts Full Sleeve** 👕  
-  URL: [https://bohurupi.com/bengali-printed-t-shirts-full-sleeve/](https://bohurupi.com/bengali-printed-t-shirts-full-sleeve/)  
-  Description: Discover full sleeve t-shirts featuring traditional Bengali prints.
-
-- **T-Shirts for Men Online** 👔  
-  URL: [https://bohurupi.com/t-shirts-for-men-online/](https://bohurupi.com/t-shirts-for-men-online/)  
-  Description: An online collection exclusively dedicated to men’s t-shirt styles.
-
-- **Anime T-Shirts** 🎌  
-  URL: [https://bohurupi.com/anime-t-shirts/](https://bohurupi.com/anime-t-shirts/)  
-  Description: A trendy mix of anime-inspired t-shirt designs with a Bengali twist.
-
 ## GitHub Repository
 
 Access the code and contribute by visiting the repository:  
